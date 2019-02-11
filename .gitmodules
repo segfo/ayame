@@ -1,0 +1,6 @@
+[submodule "iris-api"]
+	path = iris-api
+	url = https://github.com/segfo/iris-api.git
+[submodule "lantana-core"]
+	path = lantana-core
+	url = https://github.com/segfo/lantana-core.git
